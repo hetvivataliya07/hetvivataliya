@@ -18,6 +18,10 @@
 * Web Development
 * Git and GitHub
 
+## 🔗 Connect with me
+
+LinkedIn: www.linkedin.com/in/hetvi-vataliya-705a82394
+
 ## 🌱 Goal
 
 To improve my programming skills and build useful software projects.
